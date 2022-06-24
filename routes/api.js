@@ -9,9 +9,9 @@ var kuhong = db.get('ojan'); // jan diubah
 	console.log('WELCOME TO GX API!') // boleh diubah
 }
 
-var creatorList = ['Angga']; // Nama Lu Ngab
+var creatorList = ['Pino']; // Nama Lu Ngab
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)]; // Ini jan diubah
-var key = 'my-anggakey' // Apikey Lu Ngab
+var key = 'apino' // Apikey Lu Ngab
 
 // Required Modules :
 var ffmpeg = require('fluent-ffmpeg');
